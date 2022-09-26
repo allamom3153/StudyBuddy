@@ -8,7 +8,7 @@ Cloning the repository
 
 --> Clone the repository using the command below :
 
-git clone https://github.com/divanov11/StudyBud.git
+git clone https://github.com/allamom3153/StudyBuddy.git
 
 --> Move into the directory where we have the project files :
 
@@ -42,6 +42,9 @@ App Preview :
  
 
 Feed Home
+![image](https://user-images.githubusercontent.com/28753077/192251137-09c85ca2-6333-4e05-a759-5f9b57247743.png)
 	
 
 Room Conversation Preview
+![image](https://user-images.githubusercontent.com/28753077/192251226-3e02b5e1-b349-420b-b384-cc69fce7c5b9.png)
+

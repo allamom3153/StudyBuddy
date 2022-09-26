@@ -1,6 +1,7 @@
 # StudyBuddy
 a website created using django framework
 
+![image](https://user-images.githubusercontent.com/28753077/192250439-26b2a918-59d6-411d-ba4b-7298855673af.png)
 
 StudyBuddy
 Cloning the repository

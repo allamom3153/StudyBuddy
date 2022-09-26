@@ -1,0 +1,5 @@
+1] C:\Users\user\OneDrive\Desktop\django>.\scripts\activate => to activate
+2] .\scripts\deactivate => to deactivate
+3] django-admin startproject studybud
+4] (django) C:\Users\user\OneDrive\Desktop\django\studybud>python manage.py runserver
+5](django) C:\Users\user\OneDrive\Desktop\django\studybud>python manage.py startapp base
